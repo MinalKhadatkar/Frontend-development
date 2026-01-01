@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="Design" content="A begginers single-page CV template">
+    <title>Single- Page CV</title>
+</head>
+<body>
+    <h1 style="font-family: Inter, sans-serif; color: black; font-size: 20px;">Your Name</h1>
+    <h2 style="font-family: Inter, sans-serif; color: green; font-size: 12px;">Junior Front-End Developer</h2>
+        <p>
+        <div style="font-family: Inter, sans-serif; color: black; font-size: 12px;">
+            123 Your Street</br>
+            Your City, ST 12345</br>
+            (123) 456-7890</br>
+            no_reply@example.com</br>
+        </div>
+        </p>
+    <h2 style="font-family: Inter, sans-serif; color: green; font-size: 12px;">Skills</h2>
+    <p style="font-family: Inter, sans-serif; color: black; font-size: 12px;">HTML, CSS, JavaScript, Accessibility, Figma to Design , Responsive Web Design,</br>
+        Technical Writing, Presentation</br>
+    </p>
+    <h2 style="font-family:Inter, sans-serif; color:green; font-size: 12px;">Education</h2>
+    <div>
+        <p style="font-family: Inter, sans-serif; color: navy; font-size: 12px;">School Name, Location- Degree</p>
+        <p style="font-family: Inter, sans-serif; color: black; font-size: 12px;">Month 20xx to Month 20xx</br>
+           List of exciting things you did at university</br>
+        </p>
+    </div>
+    <h2 style="font-family: Inter, sans-serif; color: green; font-size: 12px;">Experience</h2>
+    <div>
+        <p style="font-family: Inter, sans-serif; color: navy; font-size: 12px;">Company Name, Location- Job Title</p>
+        <p style="font-family: Inter, sans-serif; color: black; font-size: 12px;">Month 20xx to Month 20xx</br>
+        <ul style="font-family: Inter, sans-serif; color: black; font-size: 12px;">
+            <li> List of achievemnets</li>
+            <li> List of achievemnets</li>
+            <li> List of achievemnets</li>
+        </ul>
+        <p style="font-family: Inter, sans-serif; color: black; font-size: 12px;">Skills: List of skills used or gained at this Company</p>
+        </p>
+    </div>
+    <h2 style="font-family: Inter, sans-serif; color: navy; font-size: 12px;">Company Name, Location- Job Title</h2>
+<div>
+    <p style="font-family: Inter, sans-serif; color: black; font-size: 12px;">Month 20xx to Month 20xx</p>
+    <ul style="font-family: Inter, sans-serif; color: black; font-size: 12px;">
+        <li> List of achievemnets</li>
+        <li> List of achievemnets</li>
+        <li> List of achievemnets</li>
+       </ul> 
+<p style="font-family: Inter, sans-serif; color: black; font-size: 12px;">Skills: List of skills used or gained at this Company</p>
+</div>
+<h2 style="font-family: Inter, sans-serif; color: green; font-size: 12px;">Across the Internet</h2>
+<p style="font-family: Inter, sans-serif; color: black; font-size: 12px;"> Add your Linkedin, Github profile links</p>
+
+</body>
+</html>
